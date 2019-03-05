@@ -3,3 +3,4 @@ git checkout
 git status
 git add .ruta
 git reset .ruta
+espaciio
